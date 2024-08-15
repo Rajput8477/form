@@ -1,0 +1,21 @@
+body{
+    background:color-mix(in lab, rgb(216, 57, 132), rgb(230, 143, 51) );
+
+}
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#head{
+    background-color: aqua;
+
+}
+.registration{
+    font-size: 4vw;
+    border-bottom-style:ridge ;
+}
+ #capt{
+    width:15vh;
+ }
